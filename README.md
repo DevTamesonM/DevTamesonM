@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Tameson Morais ✋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tameson-morais-94307b18b/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moraistameson_/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tameson-morais-2b139a218/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moraistameson_/)
 
 
 ![Tameson GitHub stats](https://github-readme-stats.vercel.app/api?username=DevTamesonM&show_icons=true&theme=dracula)
